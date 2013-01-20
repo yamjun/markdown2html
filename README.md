@@ -38,7 +38,7 @@ python とmarkdownのライブラリーが必要
 >   今の所，MarkdownファイルをGitで管理してpushした時にhtmlをメールで送信するようにしたら面白いと考えている．  
 >   その際，Markdownをhtmlに変換しないといけなさそうなので，そのプログラムを片手間に書いた．  
 >   
->#Markdownが流行ればいいな
+#Markdownで日報が流行ればいいな
 
 
 
